@@ -49,6 +49,29 @@ YTM Linux Desktop does not collect, process or store your Google password.
 
 The Chromium session is persisted locally by Electron so you can remain signed in between launches.
 
+## Installation
+
+Prebuilt Linux packages are available from the GitHub Releases page:
+
+https://github.com/bartualperen/ytmusic-linux-desktop/releases/latest
+
+### Debian / Ubuntu / Kubuntu
+
+Download the `.deb` package from the latest release and install it with:
+
+    sudo apt install ./YTM-Linux-Desktop-*-amd64.deb
+
+After installation, launch **YTM Linux Desktop** from your application menu.
+
+### AppImage
+
+Download the AppImage from the latest release, make it executable and run it:
+
+    chmod +x YTM-Linux-Desktop-*-x86_64.AppImage
+    ./YTM-Linux-Desktop-*-x86_64.AppImage
+
+Some Linux distributions may require FUSE 2 compatibility libraries to run AppImages.
+
 ## Development
 
 Requires Node.js 24.
