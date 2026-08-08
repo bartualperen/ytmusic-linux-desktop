@@ -1,6 +1,6 @@
 {
   "name": "ytmusic-linux-desktop",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "An unofficial, lightweight and security-conscious YouTube Music desktop client for Linux.",
   "main": "src/main.js",
   "private": true,

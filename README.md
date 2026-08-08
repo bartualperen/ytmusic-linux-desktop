@@ -8,7 +8,7 @@ YTM Linux Desktop provides a native desktop window for YouTube Music while keepi
 
 Early development.
 
-Current version: `0.3.0`
+Current version: `0.3.1`
 
 ## Features
 
