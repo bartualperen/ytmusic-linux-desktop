@@ -1,4 +1,4 @@
-# YTM Linux Desktop
+# Youtube Music Linux
 
 An unofficial, lightweight and security-conscious YouTube Music desktop client for Linux.
 
